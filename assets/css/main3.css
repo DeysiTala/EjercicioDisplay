@@ -1,0 +1,32 @@
+
+.bloque1 {
+	background-color: yellow;
+	
+	font-family: 'Raleway', sans-serif;
+	width: 87px;
+	height: 36px;
+	display: inline-block;
+	
+	
+}
+.bloque2{
+	background-color: red;	 
+	font-family: 'Raleway', sans-serif;
+	width: 20px;
+	height: 36px;
+	display: inline-block;
+	margin-right: 12px;
+    margin-left: 12px;
+}
+
+.bloque3{
+	background-color: yellow;
+	
+	
+	font-family: 'Raleway', sans-serif;
+	width: 149px;
+	height: 36px;
+	display: inline-block;
+	
+}
+
